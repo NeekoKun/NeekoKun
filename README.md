@@ -1,11 +1,5 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║           Hello World! I'm NeekoKun 👾               ║
-╚══════════════════════════════════════════════════════╝
-```
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Welcome+to+my+Profile;I+never+quite+Realized;How+Beautiful+this+World+is)](https://git.io/typing-svg)
 
 <br/>
