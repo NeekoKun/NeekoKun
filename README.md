@@ -47,6 +47,7 @@
 **Frameworks & Libraries**
 
 [![Skills](https://skillicons.dev/icons?i=anaconda)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 
 **Tools & Platforms**
 
